@@ -16,3 +16,5 @@ const result = outer();
 for (let i = 1; i <= 20; i++) {
     result();
 }
+
+// Practicing JavaScript closures
